@@ -1,0 +1,20 @@
+body{
+    background-image: url();
+    background-position:center ;
+    background-repeat: no-repeat;
+    
+    background-attachment: scroll;
+    background-size:cover;
+    background-origin: content-box ;
+
+}
+.alllines{
+    fill: aqua;
+    background-color: black ;
+    color: yellow;
+
+
+}
+#august{
+    background-color: blueviolet;
+}
